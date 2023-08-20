@@ -32,6 +32,5 @@ export default async function getPostText() {
   }
   
   // Start posting
-  postLine();
-  
+  return "hello";
 }
