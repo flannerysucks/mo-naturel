@@ -35,7 +35,6 @@ export default async function getPostText(): Promise<string> {
     }
 
     // Start posting
-    postLine(); // Start the posting process
-    process.exit(0);
+    postLine(); // Start the posting process;
   });
 }
