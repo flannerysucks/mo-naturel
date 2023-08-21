@@ -1,6 +1,6 @@
 import * as fs from 'fs/promises';
 
-async function getPostText(): Promise<string> {
+export default async function getPostText(): Promise<string> {
     const currentDate = new Date();
     const currentDay = currentDate.getDate();
     
