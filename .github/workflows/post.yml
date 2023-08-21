@@ -16,7 +16,6 @@ jobs:
       - run: npm ci
       - run: npm run build
       - name: Send post
-      - name: Every time
         run: npm start
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
