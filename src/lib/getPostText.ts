@@ -18,10 +18,3 @@ export default async function getPostText(): Promise<string> {
         return 'An error occurred while fetching the post content.';
     }
 }
-
-// Example usage
-getPostText().then(text => {
-    console.log(text);
-}).catch(error => {
-    console.error(error);
-});
