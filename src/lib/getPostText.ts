@@ -1,40 +1,27 @@
-import * as fs from 'fs';
-export default async function getPostText(): Promise<string> {
-  return new Promise<string>((resolve, reject) => {
-    const calendarFilePath = 'calendar.txt';
-    let lines: string[] = [];
-    let currentIndex = 0;
+import * as fs from 'fs/promises';
 
-    // Read the lines from the calendar.txt file
+async function getPostText(): Promise<string> {
+    const currentDate = new Date();
+    const currentDay = currentDate.getDate();
+    
     try {
-      const data = fs.readFileSync(calendarFilePath, 'utf-8');
-      lines = data.split('\n').filter(line => line.trim() !== '');
+        const fileContent = await fs.readFile('calendar.txt', 'utf-8');
+        const lines = fileContent.split('\n').filter(line => line.trim() !== '');
+
+        const lineIndex = currentDay - 1;
+        if (lineIndex >= 0 && lineIndex < lines.length) {
+            return lines[lineIndex];
+        } else {
+            return 'No content available for today.';
+        }
     } catch (error) {
-      console.error('Error reading the calendar file:', error);
-      reject(error); // Reject the promise with the error
-      return;
+        return 'An error occurred while fetching the post content.';
     }
-
-    // Function to post a line and schedule the next post
-    function postLine() {
-      if (currentIndex < lines.length) {
-        console.log(lines[currentIndex]);
-        currentIndex++;
-        scheduleNextPost();
-      } else {
-        console.log('All lines have been posted.');
-        resolve('All lines have been posted.'); // Resolve the promise
-        // Terminate the Node.js process after all lines have been posted
-      }
-    }
-
-    // Function to schedule the next post
-    function scheduleNextPost() {
-      const oneDayInMilliseconds = 24 * 60 * 60 * 1000; // 1 day in milliseconds
-      setTimeout(postLine, oneDayInMilliseconds);
-    }
-
-    // Start posting
-    postLine(); // Start the posting process;
-  });
 }
+
+// Example usage
+getPostText().then(text => {
+    console.log(text);
+}).catch(error => {
+    console.error(error);
+});
