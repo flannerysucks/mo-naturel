@@ -1,20 +1,27 @@
 name: "Post to Bluesky"
 
-on: 
-   schedule:
-     - cron: "36 2 * * *"
-    
+on:
+  schedule:
+    - cron: "41 2 * * *"
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
       - name: Use Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v2
         with:
-          node-version-file: ".nvmrc"
-      - run: npm ci
-      - run: npm run build
+          node-version: '14' # Specify the desired Node.js version
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Build
+        run: npm run build
+      
       - name: Send post
         run: npm start
         env:
