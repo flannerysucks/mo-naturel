@@ -1,29 +1,26 @@
-name: Post to Bluesky
+name: "Post to Bluesky"
 
-on:
-  schedule:
-    - cron: "31 11 * * *"
-
+on: 
+   schedule:
+     - cron: "33 11 * * *"
+    
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
+      - uses: actions/checkout@v2
       - name: Use Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: "18.16.0"  # Change to the appropriate Node.js version
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build
-        run: npm run build
-
+          node-version-file: ".nvmrc"
+      - run: npm ci
+      - run: npm run build
       - name: Send post
         run: npm start
+        if: ${{ always() }} && github.event_name == 'schedule'
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_PASSWORD: ${{ secrets.BSKY_PASSWORD }}
+
+          
+
