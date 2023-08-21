@@ -1,8 +1,8 @@
-name: "Post to Bluesky"
+name: Post to Bluesky
 
-on: 
+on:
   schedule:
-    - cron: "24 11 * * *"
+    - cron: "29 11 * * *"
 
 jobs:
   build:
@@ -24,7 +24,6 @@ jobs:
 
       - name: Send post
         run: npm start
-        if: github.event_name == 'schedule'
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_PASSWORD: ${{ secrets.BSKY_PASSWORD }}
