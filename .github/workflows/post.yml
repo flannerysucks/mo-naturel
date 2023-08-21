@@ -2,7 +2,7 @@ name: "Post to Bluesky"
 
 on: 
    schedule:
-     - cron: "31 2 * * *"
+     - cron: "36 2 * * *"
     
 jobs:
   build:
@@ -16,6 +16,7 @@ jobs:
       - run: npm ci
       - run: npm run build
       - name: Send post
+      - name: Every time
         run: npm start
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
