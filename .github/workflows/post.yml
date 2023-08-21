@@ -1,7 +1,10 @@
 name: "Post to Bluesky"
 
 on: workflow_dispatch
-
+# on:
+#   schedule:
+#     - cron: "20 8 * * *"
+    
 jobs:
   build:
     runs-on: ubuntu-latest
