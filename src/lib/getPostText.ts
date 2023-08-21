@@ -1,20 +1,28 @@
-import * as fs from 'fs/promises';
+import { promises as fsPromises } from 'fs';
 
 export default async function getPostText(): Promise<string> {
-    const currentDate = new Date();
-    const currentDay = currentDate.getDate();
-    
     try {
-        const fileContent = await fs.readFile('calendar.txt', 'utf-8');
+        const fileContent = await fsPromises.readFile('calendar.txt', 'utf-8');
         const lines = fileContent.split('\n').filter(line => line.trim() !== '');
 
-        const lineIndex = currentDay - 1;
-        if (lineIndex >= 0 && lineIndex < lines.length) {
-            return lines[lineIndex];
-        } else {
-            return 'No content available for today.';
-        }
+        const currentDate = new Date();
+        const currentDayOfYear = Math.floor((currentDate.getTime() - new Date(currentDate.getFullYear(), 0, 0).getTime()) / (24 * 60 * 60 * 1000));
+
+        const lineIndex = currentDayOfYear % lines.length;
+        const postText = lines[lineIndex];
+
+        return postText;
     } catch (error) {
-        return 'An error occurred while fetching the post content.';
+        console.error('Error reading or processing file:', error);
+        throw error;
     }
 }
+
+// Example usage
+getPostText()
+    .then(text => {
+        console.log('Today\'s post text:', text);
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
