@@ -2,7 +2,7 @@ name: Post to Bluesky
 
 on:
   schedule:
-    - cron: "29 11 * * *"
+    - cron: "31 11 * * *"
 
 jobs:
   build:
@@ -14,7 +14,7 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: "14"  # Change to the appropriate Node.js version
+          node-version: "18.16.0"  # Change to the appropriate Node.js version
 
       - name: Install dependencies
         run: npm ci
