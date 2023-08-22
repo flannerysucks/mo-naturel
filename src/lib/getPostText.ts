@@ -2,7 +2,7 @@ import * as fs from 'fs';
 
 export default async function getPostText(): Promise<string> {
   const today = new Date();
-  const monthDayString = today.toISOString().substring(5); // Format: MM-DD
+  const monthDayString = today.toISOString().substring(5, 10); // Format: MM-DD
 
   const filePath = 'calendar.txt';
 
