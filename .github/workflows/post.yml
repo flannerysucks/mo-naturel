@@ -2,7 +2,7 @@ name: "Post to Bluesky"
 
 on:
    schedule:
-     - cron: "*/5 * * * *"
+     - cron: "55 12 * * *"
 
 jobs:
   build:
