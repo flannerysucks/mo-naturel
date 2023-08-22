@@ -13,7 +13,8 @@ export default async function getPostText(): Promise<string> {
     for (const line of lines) {
       const lineDate = line.substring(0, 5); // Extract MM-DD from the line
       if (lineDate === monthDayString) {
-        return line.substring(11); // Extract the text after the date
+        const textAfterDate = line.substring(6).trim(); // Extract the text after the date and remove leading/trailing whitespace
+        return textAfterDate;
       }
     }
     
