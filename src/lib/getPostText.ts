@@ -22,7 +22,3 @@ export default async function getPostText(): Promise<string> {
   }
 }
 
-// Example usage
-getPostText()
-  .then(text => console.log(text))
-  .catch(error => console.error(error));
