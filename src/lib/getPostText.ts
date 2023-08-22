@@ -2,7 +2,7 @@ import * as fs from 'fs';
 
 export default async function getPostText(): Promise<string> {
   const today = new Date();
-  const dateString = today.toISOString().substring(0, 10); // Format: YYYY-MM-DD
+  const monthDayString = today.toISOString().substring(5, 10); // Format: MM-DD
 
   const filePath = 'calendar.txt';
 
@@ -11,7 +11,8 @@ export default async function getPostText(): Promise<string> {
     const lines = fileContent.split('\n');
     
     for (const line of lines) {
-      if (line.startsWith(dateString)) {
+      const lineDate = line.substring(0, 5); // Extract MM-DD from the line
+      if (lineDate === monthDayString) {
         return line.substring(11); // Extract the text after the date
       }
     }
