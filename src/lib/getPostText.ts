@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 
-export default async function getPostText(): Promise<string | null> {
+export default async function getPostText(): Promise<string> {
   const today = new Date();
   const monthDayString = today.toISOString().substring(5, 10); // Format: MM-DD
 
@@ -18,7 +18,7 @@ export default async function getPostText(): Promise<string | null> {
       }
     }
     
-    return null; // No post found for today's date.
+    return "No post found for today's date.";
   } catch (error) {
     throw new Error(`Error reading file: ${error}`);
   }
@@ -26,11 +26,5 @@ export default async function getPostText(): Promise<string | null> {
 
 // Example usage
 getPostText()
-  .then(text => {
-    if (text !== null) {
-      console.log(text);
-    } else {
-      console.log("No post found for today's date.");
-    }
-  })
+  .then(text => console.log(text))
   .catch(error => console.error(error));
