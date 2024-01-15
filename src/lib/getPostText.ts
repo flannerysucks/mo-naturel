@@ -17,8 +17,7 @@ export default async function getPostText(): Promise<string> {
         return textAfterDate;
       }
     }
-   else: 
-     return None;
+     return null;
   } catch (error) {
     throw new Error(`Error reading file: ${error}`);
   }
