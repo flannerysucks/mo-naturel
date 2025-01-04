@@ -18,7 +18,7 @@ export default async function getPostText(): Promise<string> {
       }
     }
     
-    return "No post found for today's date.";
+    throw new Error("No post found for today's date."); // Throw an error if no post is found
   } catch (error) {
     throw new Error(`Error reading file: ${error}`);
   }
