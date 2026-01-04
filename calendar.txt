@@ -2,11 +2,11 @@
 08-23 Blue-winged teal begin returning from the north.
 08-24 Boneset blooms, attracting swarms of pollinators.
 08-25 Hazelnuts ripen. Look for their ruffled cases.
-08-26 “Turkey feet” seed heads of big bluestem grass mature.
-08-27 Elderberries begin ripening. Cloudless sulfur butterflies begin migrating north.
+08-26 “Turkey feet” seed heads of big bluestem grass mature. Cloudless sulfur butterflies begin migrating north.
+08-27 Elderberries begin ripening. Partial lunar eclipse occurs.
 08-28 Male white-tailed deer rub velvet off antlers. Look for their rubs on small trees.
-08-29 Thirteen-lined and Franklin’s ground squirrels begin to gorge.
-08-30 Colonies of bryozoans reach their largest sizes. Look for their jellylike masses in warm, quiet ponds and lakes.
+08-29 Colonies of bryozoans reach their largest sizes. Look for their jellylike masses in warm, quiet ponds and lakes.
+08-30 Ground squirrels gorge to prepare for winter.
 08-31 Look for tarantulas crossing roads in southwestern Missouri.
 09-01 Ospreys begin fall migration.
 09-02 Harmless black-and-yellow garden spiders build webs.
@@ -58,8 +58,8 @@
 10-18 Listen for quail covey calls half an hour before dawn.
 10-19 Look for spiders ballooning on clear, windy days.
 10-20 Average day of first frost in central and southern Missouri.
-10-21 Orionid meteor shower peaks.
-10-22 Don't miss the fall colors of bald cypress and water tupelo trees at Bootheel swamps.
+10-21 Don't miss the fall colors of bald cypress and water tupelo trees at Bootheel swamps.
+10-22 Orionid meteor shower peaks, but bright moon interferes with viewing. 
 10-23 Green-winged teal migration is at its peak.
 10-24 Juncos arrive from Canada.
 10-25 Arrival of American wigeon, pintail, and gadwall ducks is at its peak.
@@ -69,8 +69,8 @@
 10-29 Peak fall color ends. 
 10-30 Leave fall leaves on the ground for dormant pollinators.
 10-31 HALLOWEEN. Bullfrogs begin hibernating.
-11-01 Put out bird-feeding stations.
-11-02 Daylight saving time ends. Crayfish begin mating.
+11-01 Daylight saving time ends. Put out bird-feeding stations.
+11-02 Crayfish begin mating.
 11-03 Scaup and ring-necked duck populations peak.
 11-04 Woodchucks and chipmunks are asleep in underground nests.
 11-05 Pecans begin to ripen.
@@ -79,14 +79,14 @@
 11-08 Scarlet oak leaves turn deep red, offering a striking contrast to shortleaf pines in the Ozarks.
 11-09 Look for mallards.
 11-10 Listen for flocks of greater white-fronted geese migrating at night. Their calls sound like squeaky yelps.
-11-11 Look for old bird nests while walking through the woods.
 11-12 Wooded landscapes have lost their color. “Red autumn” has turned into “gray autumn.”
 11-13 Look for frost flowers with first hard frost.
-11-14 Some red bats forgo migrations and overwinter in leaf litter and among dead leaves clinging to trees.
+11-14 Some red bats forgo migrations and overwinter in leaf litter.
 11-15 Most leaves have fallen.
 11-16 Hellbender eggs begin hatching.
 11-17 Leonid meteor shower peaks.
 11-18 Birds begin gathering at feeders.
+11-19 Red admiral butterflies search for overwintering sites.
 11-20 Collect pecans after they drop from trees.
 11-21 Mammals seek winter shelters.
 11-22 Scan leafless trees for gray nests of bald-faced hornets.
@@ -97,6 +97,7 @@
 11-27 Milkweed pods open.
 11-28 On warm days, look for raccoons sunbathing on limbs high up in trees.
 11-29 Voles and mice feed on grass and seeds under the snow.
+11-30 Look for old bird nests while walking through the woods.
 12-01 Great horned owls are courting. Listen for Hoo, hoo-oo, hoo-oo.
 12-02 River otters breed now through early April.
 12-03 Barred owls are courting. Listen for Who cooks for you? Who cooks for you all?
@@ -131,27 +132,31 @@
 01-01 Beavers begin breeding this month.
 01-02 White-tailed deer bucks begin to shed antlers. 
 01-03 Last quarter: Sunlight falls on the moon's left side.
+01-04 Snow fleas are visible on snow in sunny, wooded areas. 
 01-05 Look for foraging flocks of chickadees, titmice, nuthatches, and woodpeckers.
 01-06 Put Christmas trees in ponds for fish cover or beside bird feeders for wildlife cover.
 01-07 Long-tailed weasels in north Missouri may turn white or pale brown during winter.
 01-08 Bobcats breed through June.
 01-09 Foxes breed through March.
-01-10 Ticks may be active in southern Missouri during mild winters.
-01-11 Observe red-tailed hawks perched along highways.
+01-10 Last quarter: Sunlight falls on the moon's left side.
+01-11 Ticks may be active in southern Missouri during mild winters..
 01-12 Raccoons breed through March.
+01-13 Eastern moles are active in tunnels deep underground.
 01-14 Trumpeter swan numbers peak at wetland areas.
 01-15 Peak numbers of bald eagles gather this month at lakes, rivers, and wetlands.
 01-16 Horned larks flock in open fields.
-01-18 Ozark witch-hazel begins blooming after a few days or warm weather.
-01-19 Watch for mourning cloak and comma butterflies on warm days.
-01-21 Snow fleas are visible on snow in sunny, wooded areas.
+01-17 Observe red-tailed hawks perched along highways.
+01-18 New moon: the moon is between the Earth and sun; the side away from us is lit by the sun.
+01-20 Watch for mourning cloak and comma butterflies on warm days.
+01-21 Crossbills, redpolls, evening grosbeaks, and red-breasted nuthatches may turn up if food grows scarce farther north.
 01-22 Adult winter stoneflies may be seen along streams.
 01-23 Snowy owls appear in northern Missouri when lemmings are scarce in the Arctic.
 01-24 Fox and gray squirrels bear litters through March.
-01-25 Crossbills, redpolls, evening grosbeaks and red-breasted nuthatches may turn up if food grows scarce farther north.
+01-25 First quarter: Sunlight falls on the moon's right side.
 01-26 Watch for chickadees feeding on insects in bark crevices. Eastern moles are active in tunnels deep underground.
 01-27 Watercress, a wild edible, is green around springs. 
 01-28 Gulls congregate along the open water of large reservoirs.
+01-29 Ozark witch-hazel begins blooming after a few days or warm weather.
 01-30 During frigid weather, flying squirrels huddle together in nests.
 01-31 Look for signs of wildlife feeding on saplings: deer, a ragged cut; rabbits, a neat 45-degree slice.
 02-01 Bear cubs are born in winter dens.
@@ -182,20 +187,20 @@
 02-26 Opossum young are born and climb into their mother's pouch.
 02-27 Boxelder bugs are seen on warm days until April. River otter litters are born now through late March.
 02-28 Watch for the flap and glide of mourning doves' courtship flights. Harbinger of spring blooms in moist woods.
-03-01 Ducks and geese migrate north through mid-April. 
-03-02 Muskrats breed through September. Great blue herons begin arriving at heronries.
-03-03 Time to put up bluebird nestboxes. Spotted skunks breed through April.
+03-01 Ducks and geese migrate north through mid-April. Time to put up bluebird nestboxes.
+03-02 Muskrats breed through September. Great blue herons begin arriving at heronries. Spotted skunks breed through April.
+03-03 Total lunar eclipse occurs.
 03-04 Barred owls are nesting. Wood ducks nest around ponds and backwaters.
 03-05 Red maples begin to bloom. Yellow-bellied sapsuckers hammer rows of holes into maples and birches to collect sap.
 03-06 Wild onions and garlic are greening in pastures and woods.
 03-07 Field sparrows are arriving.
-03-08 Bluebirds begin nesting. Bald eagle chicks begin hatching.
-03-09 Daylight saving time begins. Time for ticks to appear. Field sparrows are arriving.
+03-08 Daylight saving time begins. Bluebirds begin nesting. 
+03-09 Time for ticks to appear. Bald eagle chicks begin hatching.
 03-10 American woodcocks begin courtship in northern Missouri. 
 03-11 Male red-winged blackbirds begin to set up territories. Raise purple martin and bat houses today.
 03-12 Greater prairie-chickens "boom" through mid-April. Pawpaws begin blooming.
 03-13 Wild turkeys gobble through early May. Purple martins begin arriving.
-03-14 Total lunar eclipse occurs.
+03-14 Purple martins begin arriving.
 03-15 Badgers bear young through early April. Muskies begin spawning. To protect dormant pollinators, delay spring yard cleanup until mid-April.
 03-16 Spring peeper calling is at its peak. Red cedars release pollen.
 03-17 Elms begin blooming. Copperheads begin to emerge from their winter dens.
@@ -213,14 +218,14 @@
 03-29 Double-crested cormorants arrive at wetland areas. Ohio buckeyes begin leafing out.
 03-30 Rainbow darters begin spawning on rocky riffles in Ozark streams.
 03-31 Red fox and gray fox kits are born through April.
-04-01 Tent caterpillars begin building webs in trees. Male goggle-eye begin building nests for spawning.
+04-01 Tent caterpillars begin building webs in trees. Male goggle-eye begin building nests for spawning. Woolly mammoths emerge from hibernation.
 04-02 Listen for the rattling calls of belted kingfishers along streams. Ospreys begin to migrate through Missouri.
 04-03 Northern bobwhites begin calling. Ground squirrels emerge from hibernation.
 04-04 Carp are spawning. Long-tailed weasels bear young through May. Phoebes return.
 04-05 Peak numbers of white pelicans migrate through Missouri. Male bowfins build spawning nests in shallow, weedy pools.
 04-06 Redhorse suckers are shoaling. Rose verbena and bird's foot violets bloom on glades and roadsides.
 04-07 Robins and other backyard birds are building nests. Elms start dropping seeds.
-04-08 House wrens begin to arrive. Look for luna moths around porch lights. Total solar eclipse occurs.
+04-08 House wrens begin to arrive. Look for luna moths around porch lights. 
 04-09 It's time to look for morel mushrooms. Eastern moles bear young through early May. Sedges bloom.
 04-10 Scissor-tailed flycatchers begin to arrive. Most black bears have emerged from their winter dens.
 04-11 Ruby-throated hummingbirds arrive.
@@ -235,13 +240,13 @@
 04-20 Look for flowering dogwoods. Warbler migration peaks during the next two to three weeks.
 04-21 Canada goose goslings begin hatching. Columbine blooms.
 04-22 Oaks bloom. Lyrid meteor shower peaks.
-04-23 Turtles crossing roads- watch out! Chimney swifts return.
-04-24 Coyotes bear young through May. Common milkweed sprouts.
+04-23 Turtles crossing roads- watch out! Chimney swifts return. Common milkweed sprouts.
+04-24 Coyotes bear young through May. 
 04-25 Hickories bloom. Average day of last frost in northern Missouri and the Ozark Pleateau. Cedar-apple rust appears.
 04-26 Crappie are spawning. Mink kits are born through early May. Jack-in-the-pulpit blooms in the woods.
 04-27 Ozark darters spawn in rocky riffles. Egrets begin nesting.
 04-28 May beetles (June bugs) begin appearing.
-04-29 Indigo buntings and dickcissels are arriving. May apples begin blooming.
+04-29 Indigo buntings and dickcissels are arriving. Mayapples begin blooming.
 04-30 To prevent birds from crashing into windows, apply tape or decals to the outer sides of large panes of glass.
 05-01 Ring-necked pheasant crowing is at its peak.
 05-02 Meadowlarks begin nesting. Skunks bear young through early June.
@@ -294,7 +299,7 @@
 06-18 Mulberries are ripening.
 06-19 Cattail blooms are covered with pollen.
 06-20 Northern bobwhites hatch from now through the end of summer.
-06-21 Prickly pear cactus blooms.
+06-21 FIRST DAY OF SUMMER/SOLSTICE. Prickly pear cactus blooms.
 06-22 Canada goose molt is at its peak.
 06-23 Female coyotes wean pups.
 06-24 Spiny softshell turtles lay eggs on sandbars and gravel bars.
@@ -306,10 +311,10 @@
 06-30 Destroying angel mushrooms appear now through early fall.
 07-01 Blackberries are ripening. Slime mold appears on landscaping mulch in hot, humid weather.
 07-02 Chigger bites itch from blackberry picking.
-07-03 Spiders build webs between trees at eye level. Carry a stick while hiking. Eath at its farthest point from the sun (aphelion).
+07-03 Spiders build webs between trees at eye level. Carry a stick while hiking. 
 07-04 Young striped skunks begin foraging with their mothers.
 07-05 Black-eyes Susans bloom.
-07-06 American toad tadpoles turn into toadlets and leave the water.
+07-06 American toad tadpoles turn into toadlets and leave the water. Earth at its farthest point from the sun (aphelion).
 07-07 Birds and mammals feast on wild fruits.
 07-08 Black bears feast on fruits and insect larvae.
 07-09 Birdsong has subsided.
@@ -331,7 +336,7 @@
 07-25 Wild plums ripen.
 07-26 Blazing star blooms on prairies and roadsides.
 07-27 Warblers begin to gain weight for energy during migration.
-07-28 Delta Aquarid meteor shower peaks.
+07-28 Delta Aquarid meteor shower peaks, but the full moon interferes with viewing.
 07-29 Mink kits travel with their mothers along streams.
 07-30 Watch for young hummingbirds at feeders.
 07-31 Ambush bugs and crab spiders lie in wait on flowers to grab unsuspecting insects.
@@ -351,7 +356,7 @@
 08-14 Late-summer molt produces drab plumage in some birds.
 08-15 Fox kits strike out on their own. Goldenrod begins blooming, turning roadsides golden.
 08-16 With nesting completed, herons and egrets disperse. Wild grapes begin to ripen.
-08-17 Eastern snapping turtle eggs begin hatching.
+08-17 Snapping turtle eggs begin hatching.
 08-18 Salamander larvae are transforming into adults.
 08-19 Ironweed blooms on fields and roadsides.
 08-20 Peak of fall warbler migration begins and continues through mid-September.
